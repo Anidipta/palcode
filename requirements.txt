@@ -1,0 +1,14 @@
+flask
+pydantic-settings
+pdf2image
+werkzeug
+requests
+streamlit
+pandas
+google-generativeai
+transformers
+torch
+sentencepiece
+accelerate
+Pillow
+gunicorn
